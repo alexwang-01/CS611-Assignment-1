@@ -1,0 +1,12 @@
+# Generated pipeline outputs
+datamart/
+
+# Python and Jupyter temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Trash-0/
+
+# Local data-quality exploration, not part of the submission
+feature_data_quality.ipynb
+
